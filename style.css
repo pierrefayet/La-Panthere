@@ -104,7 +104,7 @@ a:hover {
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(255, 255, 255, 0.842);
 }
 
 .d-bloc .icon-round,
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white!important;
 }
 
 h4 {
@@ -776,6 +776,7 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
@@ -793,7 +794,7 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #575757!important;
 }
 
 .ltc-atomic-tangerine {
