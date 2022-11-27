@@ -678,6 +678,7 @@ a {
 
 p {
     font-size: 15px;
+    color: #000000!important;
 }
 
 .tight-width-whitespace {
@@ -846,6 +847,10 @@ a {
 
 .nextText {
     color: #0e0e0e!important;
+}
+
+.replace__citation {
+    color: #000000!important;
 }
 
 @media (max-width: 1024px) {
