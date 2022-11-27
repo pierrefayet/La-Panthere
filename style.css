@@ -736,7 +736,9 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #e7dede;
+    font-size: medium;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -770,23 +772,33 @@ h4 {
     background-color: #364577;
 }
 
-.bgc-atomic-tangerine {
-    background-color: #F3976C;
+.tc-white {
+    color: #f76b2b!important;
+    font-weight: bold;
 }
 
-.tc-white {
-    color: #F3976C!important;
-    font-weight: bold;
+.bgc-atomic-tangerine {
+    background: #F3976C;
+    color: #111111!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #111111!important;
+}
+
+.tc-white-contrast {
+    background-color: rgba(219, 198, 129, 0.7) !important;
+    color: #111111 !important;
+}
+
+a {
+    color: #232328FF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #0e0e0e!important;
 }
 
 .ltc-white {
@@ -824,6 +836,15 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+.font {
+    color: #181818!important;
+    font-weight: bold;
+}
+
+.nextText {
+    color: #0e0e0e!important;
 }
 
 @media (max-width: 1024px) {
