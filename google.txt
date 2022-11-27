@@ -1,0 +1,7 @@
+user-agent: Googlebot 
+disallow: /nogooglebot/
+
+user-agent: *
+allow: /
+
+sitemap: https://pierrefayet.github.io/projet-4/index.html
