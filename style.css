@@ -853,6 +853,14 @@ a {
     color: #000000!important;
 }
 
+.image-resize-mode {
+    width: 100px;
+}
+
+.navbar-brand img{
+    height: 60px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
